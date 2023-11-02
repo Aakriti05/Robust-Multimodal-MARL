@@ -1,5 +1,5 @@
 # Robust-Multimodal-MARL
-Code for the paper [Robustness to Multi-Modal Environment Uncertainty in MARL using Curriculum Learning](https://arxiv.org/abs/2310.08746). Submitted to ICLR for review.
+Code for the paper [Robustness to Multi-Modal Environment Uncertainty in MARL using Curriculum Learning](https://arxiv.org/abs/2310.08746). Accepted at Neurips 2023 workshop : MASEC
 
 # Instructions to run code
 
