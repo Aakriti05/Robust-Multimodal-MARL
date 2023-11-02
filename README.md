@@ -1,5 +1,5 @@
 # Robust-Multimodal-MARL
-Code for the paper [Robustness to Multi-Modal Environment Uncertainty in MARL using Curriculum Learning]. Submitted to ICLR for review.
+Code for the paper [Robustness to Multi-Modal Environment Uncertainty in MARL using Curriculum Learning](https://arxiv.org/abs/2310.08746). Submitted to ICLR for review.
 
 # Instructions to run code
 
@@ -39,11 +39,13 @@ The weights for the training runs used to generate results in the paper are stor
 # Citation
 
 ```
-@article{agrawal2023RobustMultimodalMARL,
+@article{Agrawal2023RobustnessTM,
   title={Robustness to Multi-Modal Environment Uncertainty in MARL using Curriculum Learning},
-  author={Agrawal, Aakriti and Aralikatti, Rohith and Sun, Yanchao and Huang, Furong},
-  publisher={Arxiv},
-  year={2023}
+  author={Aakriti Agrawal and Rohith Chandrashekar Aralikatti and Yanchao Sun and Furong Huang},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2310.08746},
+  url={https://api.semanticscholar.org/CorpusID:264128360}
 }
 
 ```
